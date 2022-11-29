@@ -12,14 +12,11 @@
       ```
 
 ## Execution
-- To run all tests enter the following command to your terminal:
+1. To run all tests enter the following command to your terminal:
       ```bash
-       yarn wdio
+       yarn install
       ```
-
-## Reports and results
-
-- To generate and open Allure report enter the following command to your terminal:
+2. To generate and open Allure report enter the following command to your terminal:
       ```bash
        yarn allure
       ```
